@@ -458,6 +458,12 @@ a { color: inherit; text-decoration: none; }
   background: white;
   border: 1px solid var(--line);
 }
+.contact-icon {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 auto;
+  fill: currentColor;
+}
 .note-card {
   align-self: start;
   padding: 28px;
